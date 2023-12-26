@@ -1,1 +1,1 @@
-print("mod xq pinta")
+print("heeeeey guapisimosss")
